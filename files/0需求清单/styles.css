@@ -4572,25 +4572,3 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u406_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:736px;
-  height:674px;
-}
-#u406 {
-  position:absolute;
-  left:300px;
-  top:450px;
-  width:736px;
-  height:674px;
-}
-#u407 {
-  position:absolute;
-  left:2px;
-  top:329px;
-  width:732px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
