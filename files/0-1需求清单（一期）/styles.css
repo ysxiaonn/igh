@@ -5187,7 +5187,6 @@
   left:2px;
   top:18px;
   width:564px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u459_img {
@@ -5260,8 +5259,8 @@
 }
 #u465 {
   position:absolute;
-  left:638px;
-  top:1840px;
+  left:630px;
+  top:1821px;
   width:100px;
   height:50px;
   overflow:hidden;
